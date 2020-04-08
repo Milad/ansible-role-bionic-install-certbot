@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Milad Kawas
+  description: Web Developer
+  company: Addu Cloud
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - bionic
+  galaxy_tags:
+    - certbot
+    - ubuntu
+    - bionic
+    - nginx
+
+dependencies: []
